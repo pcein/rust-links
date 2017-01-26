@@ -13,4 +13,5 @@ https://news.ycombinator.com/item?id=13471002 (burntsushi on mutation/borrowchk)
 https://lukaskalbertodt.github.io/2017/01/20/abusing-borrowck-to-make-tic-tac-toe-safer.html (using the borrow
 checker to make tic-tac-toe safer)
 
+https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/ (mitigating underhandedness using clippy).
 
