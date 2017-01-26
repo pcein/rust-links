@@ -15,3 +15,6 @@ checker to make tic-tac-toe safer)
 
 https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/ (mitigating underhandedness using clippy).
 
+http://words.steveklabnik.com/an-overview-of-macros-in-rust (an overview of macros)
+
+https://github.com/brson/stdx (stdx, the missing batteris of Rust)
