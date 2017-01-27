@@ -1,6 +1,9 @@
 # rust-links
 Links to Rust resources on the Net
 
+https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md (a formal description of
+the borrow checker)
+
 https://www.reddit.com/r/rust/comments/5ny09j/tips_to_not_fight_the_borrow_checker/ (Tips to not fight the 
 borrow checker)
 
