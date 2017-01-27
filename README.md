@@ -18,3 +18,5 @@ https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/
 http://words.steveklabnik.com/an-overview-of-macros-in-rust (an overview of macros)
 
 https://github.com/brson/stdx (stdx, the missing batteris of Rust)
+
+http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/ (problem with shared mutability)
