@@ -23,3 +23,5 @@ http://words.steveklabnik.com/an-overview-of-macros-in-rust (an overview of macr
 https://github.com/brson/stdx (stdx, the missing batteris of Rust)
 
 http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/ (problem with shared mutability)
+
+http://blog.skylight.io/rust-means-never-having-to-close-a-socket/ (Rust means never having to close a socket)
