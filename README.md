@@ -25,3 +25,5 @@ https://github.com/brson/stdx (stdx, the missing batteris of Rust)
 http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/ (problem with shared mutability)
 
 http://blog.skylight.io/rust-means-never-having-to-close-a-socket/ (Rust means never having to close a socket)
+
+https://lab.whitequark.org/notes/2016-12-13/abstracting-over-mutability-in-rust/ (abstracting over mutability in Rust)
