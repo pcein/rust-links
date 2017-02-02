@@ -29,3 +29,5 @@ http://blog.skylight.io/rust-means-never-having-to-close-a-socket/ (Rust means n
 https://lab.whitequark.org/notes/2016-12-13/abstracting-over-mutability-in-rust/ (abstracting over mutability in Rust)
 
 https://github.com/jaheba/stuff/issues/1 (communicating intent)
+
+http://www.newrustacean.com/show_notes/e018/ (Borrow, AsRef, DeRef)
