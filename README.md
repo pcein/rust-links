@@ -15,6 +15,7 @@ https://www.reddit.com/r/rust/comments/5pvh44/ayendes_struggle_with_rust/ (Ayend
 
 https://news.ycombinator.com/item?id=13471002 (burntsushi on mutation/borrowchk)
 
+http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html (String vs &str in Rust)
 
 https://lukaskalbertodt.github.io/2017/01/20/abusing-borrowck-to-make-tic-tac-toe-safer.html (using the borrow
 checker to make tic-tac-toe safer)
