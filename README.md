@@ -17,6 +17,8 @@ https://news.ycombinator.com/item?id=13471002 (burntsushi on mutation/borrowchk)
 
 http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html (String vs &str in Rust)
 
+https://www.reddit.com/r/programming/comments/5sda9s/what_rust_can_do_that_other_languages_cant_in_six/ (what rust can do that other languages can't do in six lines of code)
+
 https://github.com/jaheba/stuff/issues/1 (communicating intent; using newtype pattern)
 
 https://lukaskalbertodt.github.io/2017/01/20/abusing-borrowck-to-make-tic-tac-toe-safer.html (using the borrow
