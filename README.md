@@ -17,6 +17,8 @@ https://news.ycombinator.com/item?id=13471002 (burntsushi on mutation/borrowchk)
 
 http://hermanradtke.com/2015/05/03/string-vs-str-in-rust-functions.html (String vs &str in Rust)
 
+https://github.com/jaheba/stuff/issues/1 (communicating intent; using newtype pattern)
+
 https://lukaskalbertodt.github.io/2017/01/20/abusing-borrowck-to-make-tic-tac-toe-safer.html (using the borrow
 checker to make tic-tac-toe safer)
 
