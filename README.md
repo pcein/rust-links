@@ -39,3 +39,6 @@ https://lab.whitequark.org/notes/2016-12-13/abstracting-over-mutability-in-rust/
 https://github.com/jaheba/stuff/issues/1 (communicating intent)
 
 http://www.newrustacean.com/show_notes/e018/ (Borrow, AsRef, DeRef)
+
+https://hoverbear.org/2017/03/01/the-future-with-futures/ (Futures in Rust)
+
