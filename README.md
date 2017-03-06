@@ -9,6 +9,12 @@ borrow checker)
 
 https://ricardomartins.cc/2016/06/08/interior-mutability (interior mutability article)
 
+https://www.reddit.com/r/rust/comments/5xh6b4/what_is_the_best_way_to_get_to_grips_with_rust/ (post rustbook learning resources)
+
+https://www.youtube.com/watch?v=Pm_oO0N5B9k (rust patterns video)
+
+https://github.com/rust-unofficial/patterns (rust patterns unofficial)
+
 http://smallcultfollowing.com/babysteps/blog/2016/04/27/non-lexical-lifetimes-introduction/ (Non-lexical lifetimes)
 
 https://www.reddit.com/r/rust/comments/5pvh44/ayendes_struggle_with_rust/ (Ayendes struggle with Rust)
