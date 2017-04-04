@@ -1,6 +1,8 @@
 # rust-links
 Links to Rust resources on the Net
 
+https://ricardomartins.cc/2016/06/08/interior-mutability (interior mutability)
+
 https://github.com/rust-lang/rust/blob/master/src/librustc_borrowck/borrowck/README.md (a formal description of
 the borrow checker)
 
